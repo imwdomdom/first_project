@@ -1,10 +1,11 @@
 # first_project
-first_project 
-Yeezy, 
+first_project
 
-pantakarn, 
+Yeezy ;
 
-SantikornKub,
+pantakarn ;
+
+SantikornKub ;
 
 #วันว่างๆกับพี่ตั้ม
 #วันหยุดของนศ.
