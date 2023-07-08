@@ -1,5 +1,4 @@
 # first_project
-first_project yeezy pantakarn 
+first_project yeezy pantakarn SantikornKub
 
-SantikornKub
 #วันว่างๆกับพี่ตั้ม
